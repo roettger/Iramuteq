@@ -19,6 +19,6 @@ La loi Zipf https://fr.wikipedia.org/wiki/Loi_de_Zipf
 ![Alt text](https://raw.githubusercontent.com/roettger/Iramuteq/main/roman18_oct_2022/Voltaire_Candide_corpus_1/Voltaire_Candide_wordcloud_1/nuage_1.png?raw=true "Title")
 
 
-# La méthode Reinert 
+# La méthode Reinert - L'an 2440 (1771)
 
 ![Alt text](https://raw.githubusercontent.com/roettger/Iramuteq/main/img/methode_reinert.PNG?raw=true "Title")
