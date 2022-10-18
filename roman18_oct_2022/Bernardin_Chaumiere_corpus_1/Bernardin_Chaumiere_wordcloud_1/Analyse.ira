@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Bernardin_Chaumiere_corpus_1\Bernardin_Chaumiere_wordcloud_1\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Bernardin_Chaumiere_corpus_1\Bernardin_Chaumiere_wordcloud_1
+name = Bernardin_Chaumiere_wordcloud_1
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 7s
+ira = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Bernardin_Chaumiere_corpus_1\Bernardin_Chaumiere_wordcloud_1\Analyse.ira
+corpus = 7155bbd2-9c1b-4eff-b3e0-b6cd7fcf3a3c
+type = wordcloud
+uuid = 9a5f01ce-cf28-4531-bada-18357e337c52

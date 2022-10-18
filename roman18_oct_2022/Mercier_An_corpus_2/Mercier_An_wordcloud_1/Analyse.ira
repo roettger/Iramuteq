@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Mercier_An_corpus_2\Mercier_An_wordcloud_1\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Mercier_An_corpus_2\Mercier_An_wordcloud_1
+name = Mercier_An_wordcloud_1
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 11s
+ira = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Mercier_An_corpus_2\Mercier_An_wordcloud_1\Analyse.ira
+corpus = ebf780d8-3014-4afe-b79d-d01d3c81d05c
+type = wordcloud
+uuid = b6a3bb01-bd48-43e3-9a6c-8fce052a9ccc

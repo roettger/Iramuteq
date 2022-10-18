@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Voltaire_Candide_corpus_1\Voltaire_Candide_wordcloud_1\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Voltaire_Candide_corpus_1\Voltaire_Candide_wordcloud_1
+name = Voltaire_Candide_wordcloud_1
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 10s
+ira = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Voltaire_Candide_corpus_1\Voltaire_Candide_wordcloud_1\Analyse.ira
+corpus = aed915d4-3d93-4a32-bc8c-cd7b99000e86
+type = wordcloud
+uuid = 21bfb61c-cb13-4b8e-a2bb-bdcd7d22e6b4

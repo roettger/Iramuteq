@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Abbes_Voyage_corpus_3\Abbes_Voyage_wordcloud_1\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Abbes_Voyage_corpus_3\Abbes_Voyage_wordcloud_1
+name = Abbes_Voyage_wordcloud_1
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 5s
+ira = C:\Users\Administrator\Desktop\Iramuteq\roman18_oct_2022\Abbes_Voyage_corpus_3\Abbes_Voyage_wordcloud_1\Analyse.ira
+corpus = ffac9f21-000a-45ab-b3b1-f1673a6d1619
+type = wordcloud
+uuid = 639d7c51-7b58-46a3-8d5d-0de3b9fc2563
