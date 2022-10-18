@@ -1,6 +1,8 @@
-# Exploration du logiciel libre IRaMuTeQ
+# Exploration du logiciel libre IRaMuTeQ: Analyses statistiques de textes
 
-IRaMuTeQ est un logiciel libre d’analyses statistiques de données textuelles. 
+IRaMuTeQ est un logiciel libre d’analyses statistiques de données textuelles. Pierre Pierre Ratinaud le présente, le mardi 18 octobre 2022 à 14h00.
+
+https://mate-shs.cnrs.fr/actions/tutomate/tuto47-iramuteq-ratinaud/
 
 
 # La loi Zipf: Candide 
