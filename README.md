@@ -22,3 +22,7 @@ La loi Zipf https://fr.wikipedia.org/wiki/Loi_de_Zipf
 # La méthode Reinert - L'an 2440 (1771)
 
 ![Alt text](https://raw.githubusercontent.com/roettger/Iramuteq/main/img/methode_reinert.PNG?raw=true "Title")
+
+Plus d'information sur la méthode Reinert: 
+
+Max Reinert, « Alceste, une méthodologie d'analyse des données textuelles et une application: Aurélia, de Gérard de Nerval », Bulletin de méthodologie sociologique, vol. 26, no 1,‎ 1990, p. 24–54 (ISSN 0759-1063, DOI 10.1177/075910639002600103) 
