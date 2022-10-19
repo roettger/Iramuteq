@@ -23,6 +23,8 @@ La loi Zipf https://fr.wikipedia.org/wiki/Loi_de_Zipf
 
 # La méthode Reinert - L'an 2440 (1771)
 
+L'objectif de la méthode Reinert est de "regrouper les mondes symboliques lexicaux et donc de mettre en évidence les thèmes généraux du corpus" (Melanie Ferrara). 
+
 ![Alt text](https://raw.githubusercontent.com/roettger/Iramuteq/main/img/methode_reinert.PNG?raw=true "Title")
 
 Plus d'information sur la méthode Reinert: 
