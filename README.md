@@ -27,7 +27,7 @@ L'objectif de la méthode Reinert est de "regrouper les mondes symboliques lexic
 
 ![Alt text](https://raw.githubusercontent.com/roettger/Iramuteq/main/img/methode_reinert.PNG?raw=true "Title")
 
-Le logiciel se base sur la méthode Alceste. 
+Le logiciel se base sur la méthode Alceste [sigle pour ‘Analyse des Lexèmes Cooccurrentsdans  un  Ensemble  de  Segments  de  Textes’]
 
 Plus d'information sur la méthode:  
 
