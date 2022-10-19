@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\Administrator\Documents\GitHub\Iramuteq\roman18_oct_2022\corpus_corpus_1\corpus_wordcloud_1\nuage_1.png
+col_text = (0, 0, 0, 255)
+pathout = C:\Users\Administrator\Documents\GitHub\Iramuteq\roman18_oct_2022\corpus_corpus_1\corpus_wordcloud_1
+name = corpus_wordcloud_1
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 600
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 11s
+ira = C:\Users\Administrator\Documents\GitHub\Iramuteq\roman18_oct_2022\corpus_corpus_1\corpus_wordcloud_1\Analyse.ira
+corpus = 2830bb61-b8c7-4132-a02d-f99cd01dc716
+type = wordcloud
+uuid = 312f329a-72b4-4907-a0f0-debf64f5315e
